@@ -8,6 +8,12 @@ Comet Dodge is a simple browser arcade game. Pilot your ship and dodge falling c
 2. Click Start.
 3. Move with `A`/`D` or the left/right arrow keys.
 
+## GitHub Pages
+
+If you enable GitHub Pages for this repo (Settings -> Pages, branch `main`, root), the game will be live at:
+
+`https://atharvrajpatil.github.io/CodexDemo/`
+
 ## Files
 
 - `index.html` — markup and layout
